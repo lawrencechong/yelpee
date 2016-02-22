@@ -39,8 +39,8 @@ Here's a walkthrough of implemented user stories:
 
 If Video walkthroughs are not showing, please view them at
 
-1. <a href="http://i.imgur.com/oSJ1XjP.gif">Horizontal View</a> 
-2. <a href="http://i.imgur.com/pzUnZYz.gif">Vertical View</a>
+1. <a href="http://i.imgur.com/oSJ1XjP.gif" target="_blank">Horizontal View</a> 
+2. <a href="http://i.imgur.com/pzUnZYz.gif" target="_blank">Vertical View</a>
 
 ## Notes
 
