@@ -34,9 +34,11 @@ Please list two areas of the assignment you'd like to **discuss further with you
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/oSJ1XjP.gif' title='Video Walkthrough1' width='' alt='Video Walkthrough1' />
+
 <img src='http://i.imgur.com/pzUnZYz.gif' title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
 
 If Video walkthroughs are not showing, please view them at
+
 1. <a href="http://i.imgur.com/oSJ1XjP.gif">Horizontal View</a> 
 2. <a href="http://i.imgur.com/pzUnZYz.gif">Vertical View</a>
 ## Notes
