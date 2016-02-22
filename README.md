@@ -41,6 +41,7 @@ If Video walkthroughs are not showing, please view them at
 
 1. <a href="http://i.imgur.com/oSJ1XjP.gif">Horizontal View</a> 
 2. <a href="http://i.imgur.com/pzUnZYz.gif">Vertical View</a>
+
 ## Notes
 
 Describe any challenges encountered while building the app.
