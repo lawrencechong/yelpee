@@ -33,10 +33,10 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/oSJ1XjP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/oSJ1XjP.gif' title='Video Walkthrough1' width='' alt='Video Walkthrough1' />
 
 
-<img src='http://i.imgur.com/pzUnZYz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/pzUnZYz.gif' title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
 
 
 ## Notes
